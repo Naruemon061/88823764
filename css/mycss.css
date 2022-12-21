@@ -1,0 +1,26 @@
+@font-face{
+    font-family: BLACKCHA;
+    src: url('../BLACKCHA.TXT/..');
+}
+*{
+    font-family:
+    Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(185, 27, 164);
+}
+#myh1{
+    color: rgb(145, 15, 15);
+    background-color: aqua;
+    font-size: 70px;
+}
+.header{
+    color: green;
+    font-size: 100px;
+}
+.header2{
+    color: yellow;
+}
+.cemter{
+    text-align: center;
+}
